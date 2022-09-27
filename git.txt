@@ -1,0 +1,6 @@
+git add <filename> - to add file to track 
+git add . - to add the entire folder
+git status - to check the status of the files
+git commit -m "your message here" - to add the tracked files to the local repository
+git remote add origin <url> - add the remote url to the folder so that the comits can be pushed to github
+git push origin master - to push to the reposotory
